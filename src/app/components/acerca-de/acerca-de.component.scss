@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 2px solid #fff;
+}
+
+.img-perfil {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50rem;
+    max-width: 30%;
+    height: auto;
+}
+
+.row {
+    border: 1px solid #111;
+}
+
+.col {
+    border: 1px solid #111;
+}
